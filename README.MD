@@ -6,6 +6,8 @@
 
 仅仅使用6刀的vps搭建，就别ddos我了吧（你d我的费用可能可以买我半台vps了🙈）
 
+注意：每周邮件发送模块，请注意在src/main/resources/application.properties修改成自己的邮箱与密码才能正常使用。
+
 ### 二、About
 
 项目是基于Roothub论坛二次开发的宠物交流论坛，感谢Roothub群主提供过的帮助。Roothub GitHub地址：https://github.com/miansen/Roothub/tree/v2.6
