@@ -1,6 +1,6 @@
 ### 一、部署到linux方法
 
-详见 tang's blog 的 [怎么把 java web 项目部署到 centos7 中？](https://blog.tangspoon.cn/2020/12/12/%E6%80%8E%E4%B9%88%E6%8A%8Ajava-web%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E5%88%B0centos7%E4%B8%AD%EF%BC%9F/)
+详见 tang's blog 的 [怎么把 java web 项目部署到 centos7 中？](https://blog.tangspoon.cn/2020/12/12/%E5%90%90%E8%A1%80%E5%8E%9F%E5%88%9B%E6%95%B4%E7%90%86%EF%BD%9C%E6%80%8E%E4%B9%88%E6%8A%8Ajava-web%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2%E5%88%B0centos7%E4%B8%AD%EF%BC%9F/#more)
 
 欢迎访问：http://pet.tangspoon.cn
 
